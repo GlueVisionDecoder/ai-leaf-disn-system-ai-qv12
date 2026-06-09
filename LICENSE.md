@@ -1,4 +1,4 @@
-# 
+# Código aberto AI leaf disease detection system modelos. Com treinamento de modelos e aprendizado por transferência — otimizado para máximo desempenho.
 
 
 
